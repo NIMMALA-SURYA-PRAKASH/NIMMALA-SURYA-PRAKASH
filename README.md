@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm NIMMALA SURYA PRAKASH</h1>
-<h3 align="center">💻 Advanced Web Developer | MERN | Full-Stack | UI/UX Enthusiast</h3>
+<h3 align="center">💻 Web Developer | MERN | Full-Stack | UI/UX Enthusiast</h3>
 
 ---
 
