@@ -29,7 +29,7 @@ Git • GitHub • VS Code • Linux AWS (Basics)
 ## 📂 Featured Projects
 | Project | Tech | Link |
 |--------|------|-------|
-| 🚀 Portfolio Website | React | Coming Soon |
+| 🚀 Book-store-management-system | React | Coming Soon |
 | 🛒 E-commerce Web App |Redux | Coming Soon |
 
 ---
